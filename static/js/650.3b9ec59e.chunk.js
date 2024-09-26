@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkproduct_listing_app=self.webpackChunkproduct_listing_app||[]).push([[650],{650:(s,c,e)=>{e.r(c),e.d(c,{default:()=>i});e(43);var a=e(579);const i=()=>(0,a.jsx)("div",{className:"sidebar",children:(0,a.jsx)("ul",{children:(0,a.jsx)("li",{className:"active",children:"Products"})})})}}]);
+//# sourceMappingURL=650.3b9ec59e.chunk.js.map

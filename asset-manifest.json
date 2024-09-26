@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/product-details-two/static/css/main.c85b22fd.css",
+    "main.js": "/product-details-two/static/js/main.e3dc0f63.js",
+    "static/css/650.523283c2.chunk.css": "/product-details-two/static/css/650.523283c2.chunk.css",
+    "static/js/650.3b9ec59e.chunk.js": "/product-details-two/static/js/650.3b9ec59e.chunk.js",
+    "static/js/660.5b12b029.chunk.js": "/product-details-two/static/js/660.5b12b029.chunk.js",
+    "static/js/32.bf8dea10.chunk.js": "/product-details-two/static/js/32.bf8dea10.chunk.js",
+    "static/css/575.c8835d59.chunk.css": "/product-details-two/static/css/575.c8835d59.chunk.css",
+    "static/js/575.b86f938e.chunk.js": "/product-details-two/static/js/575.b86f938e.chunk.js",
+    "static/css/981.2091e7cd.chunk.css": "/product-details-two/static/css/981.2091e7cd.chunk.css",
+    "static/js/981.92ea4728.chunk.js": "/product-details-two/static/js/981.92ea4728.chunk.js",
+    "static/js/453.8b48f5bb.chunk.js": "/product-details-two/static/js/453.8b48f5bb.chunk.js",
+    "static/js/42.001e31eb.chunk.js": "/product-details-two/static/js/42.001e31eb.chunk.js",
+    "index.html": "/product-details-two/index.html",
+    "main.c85b22fd.css.map": "/product-details-two/static/css/main.c85b22fd.css.map",
+    "main.e3dc0f63.js.map": "/product-details-two/static/js/main.e3dc0f63.js.map",
+    "650.523283c2.chunk.css.map": "/product-details-two/static/css/650.523283c2.chunk.css.map",
+    "650.3b9ec59e.chunk.js.map": "/product-details-two/static/js/650.3b9ec59e.chunk.js.map",
+    "660.5b12b029.chunk.js.map": "/product-details-two/static/js/660.5b12b029.chunk.js.map",
+    "32.bf8dea10.chunk.js.map": "/product-details-two/static/js/32.bf8dea10.chunk.js.map",
+    "575.c8835d59.chunk.css.map": "/product-details-two/static/css/575.c8835d59.chunk.css.map",
+    "575.b86f938e.chunk.js.map": "/product-details-two/static/js/575.b86f938e.chunk.js.map",
+    "981.2091e7cd.chunk.css.map": "/product-details-two/static/css/981.2091e7cd.chunk.css.map",
+    "981.92ea4728.chunk.js.map": "/product-details-two/static/js/981.92ea4728.chunk.js.map",
+    "453.8b48f5bb.chunk.js.map": "/product-details-two/static/js/453.8b48f5bb.chunk.js.map",
+    "42.001e31eb.chunk.js.map": "/product-details-two/static/js/42.001e31eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c85b22fd.css",
+    "static/js/main.e3dc0f63.js"
+  ]
+}
