@@ -67,10 +67,16 @@ const ProductTable: React.FC<ProductTableProps> = ({ products }) => {
                   <img
                     className="img-fluid img-responsive rounded product-image"
                     src={thumbnail}
+                    alt="product"
                   />
                 </div>
                 <div className="col-md-6 mt-1">
-                  <h5 onClick={()=>handleTitleClick(product)}>{title}</h5>
+                  <h5
+                    onClick={() => handleTitleClick(product)}
+                    style={{ cursor: "pointer" }}
+                  >
+                    {title}
+                  </h5>
                   <div className="d-flex flex-row">
                     <span>{category}</span>
                   </div>
@@ -96,7 +102,11 @@ const ProductTable: React.FC<ProductTableProps> = ({ products }) => {
                   </div>
                   <h6 className="text-success">{shippingInformation}</h6>
                   <div className="d-flex flex-column mt-4">
-                    <button className="btn btn-primary btn-sm" type="button" onClick={()=>handleTitleClick(product)}>
+                    <button
+                      className="btn btn-primary btn-sm"
+                      type="button"
+                      onClick={() => handleTitleClick(product)}
+                    >
                       Edit
                     </button>
                   </div>
