@@ -1,16 +1,16 @@
 .card {
-    height: 100%; /* Ensure cards take up equal space */
+    height: 100%; 
   }
   
   .card-body {
-    height: 90px; /* Set a fixed height for the card body */
+    height: 90px; 
     display: flex;
     flex-direction: column;
-    justify-content: space-between; /* Space between title, text, and button */
+    justify-content: space-between; 
   }
   
   .card-img-top {
-    width: 100px; /* Full width */
-    height: 200px; /* Fixed height for images */
-    object-fit: fill; /* Cover the area while maintaining aspect ratio */
+    width: 100px; 
+    height: 200px; 
+    object-fit: fill; 
   }

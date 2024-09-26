@@ -1,4 +1,3 @@
-// LazyImage.tsx
 import React, { useEffect, useRef, useState } from "react";
 
 interface LazyImageProps {
